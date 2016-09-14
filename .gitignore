@@ -1,0 +1,7 @@
+# Lines starting with '#' are considered comments.
+# Ignore VS directory
+/.vs
+# Ignore binary directory
+/bin
+# Ignore object directory
+/obj
